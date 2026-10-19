@@ -1,5 +1,5 @@
-"# git-practice" 
-"Git ½Ç½À¿ë ÀúÀå¼ÒÀÔ´Ï´Ù." 
+# git-practice
+202135836 ì •í˜œì¸
 
 ## Files
 - hello.py, utils.py, notes.md
